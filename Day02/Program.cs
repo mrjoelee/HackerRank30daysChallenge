@@ -42,11 +42,11 @@ namespace Day02
     {
         public static void Main(string[] args)
         {
-            double meal_cost = Convert.ToDouble(Console.ReadLine().Trim());
+            double meal_cost = 18.00;
 
-            int tip_percent = Convert.ToInt32(Console.ReadLine().Trim());
+            int tip_percent = 20;
 
-            int tax_percent = Convert.ToInt32(Console.ReadLine().Trim());
+            int tax_percent = 2;
 
             Result.solve(meal_cost, tip_percent, tax_percent);
             
