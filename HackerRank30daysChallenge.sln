@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day0-HelloWorld", "HackerRank30daysChallenge\Day0-HelloWorld.csproj", "{031FB976-DCEB-4309-A2B3-1B5C7FF04851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0-HelloWorld", "HackerRank30daysChallenge\Day0-HelloWorld.csproj", "{031FB976-DCEB-4309-A2B3-1B5C7FF04851}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1-Data Types", "Day1-Data Types\Day1-Data Types.csproj", "{FF564692-39AF-43CA-9482-A673EA8C7A80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1-Data Types", "Day1-Data Types\Day1-Data Types.csproj", "{FF564692-39AF-43CA-9482-A673EA8C7A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day02-Operator", "Day02\Day02-Operator.csproj", "{C96FC331-A805-4FFA-89BA-C065A6CD3A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FF564692-39AF-43CA-9482-A673EA8C7A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF564692-39AF-43CA-9482-A673EA8C7A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF564692-39AF-43CA-9482-A673EA8C7A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96FC331-A805-4FFA-89BA-C065A6CD3A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96FC331-A805-4FFA-89BA-C065A6CD3A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96FC331-A805-4FFA-89BA-C065A6CD3A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96FC331-A805-4FFA-89BA-C065A6CD3A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
