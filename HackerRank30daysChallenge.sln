@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day01-Data Types", "Day1-Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day02-Operator", "Day02\Day02-Operator.csproj", "{C96FC331-A805-4FFA-89BA-C065A6CD3A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day03 - Conditional", "Day03\Day03 - Conditional.csproj", "{3AE45070-8B9D-46E3-BDCC-447AD016985E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Conditional", "Day03\Day03 - Conditional.csproj", "{3AE45070-8B9D-46E3-BDCC-447AD016985E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day04- Class vs Instance", "Day04- Class vs Instance\Day04- Class vs Instance.csproj", "{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04- Class vs Instance", "Day04- Class vs Instance\Day04- Class vs Instance.csproj", "{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 05 - Loops", "Day 05 - Loops\Day 05 - Loops.csproj", "{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
