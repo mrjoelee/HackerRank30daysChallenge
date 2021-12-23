@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31729.503
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day0-HelloWorld", "HackerRank30daysChallenge\Day0-HelloWorld.csproj", "{031FB976-DCEB-4309-A2B3-1B5C7FF04851}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day03 - Conditional", "Day0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day04- Class vs Instance", "Day04- Class vs Instance\Day04- Class vs Instance.csproj", "{82F46071-C16C-4CFD-B11A-A2EE0AE838D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 05 - Loops", "Day 05 - Loops\Day 05 - Loops.csproj", "{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 05 - Loops", "Day 05 - Loops\Day 05 - Loops.csproj", "{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day06", "Day06\Day06.csproj", "{AB39D080-B106-4FEB-946C-0F72677C6FC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA53D805-C03F-4B1B-9ACE-B1EE71F4C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB39D080-B106-4FEB-946C-0F72677C6FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB39D080-B106-4FEB-946C-0F72677C6FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB39D080-B106-4FEB-946C-0F72677C6FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB39D080-B106-4FEB-946C-0F72677C6FC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
